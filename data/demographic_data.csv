@@ -1,0 +1,31 @@
+timestamp,name,age,occupation,familiarity,frequency
+2025-05-22 08:36:19,User1,24,Student,Very familiar,Daily
+2025-05-22 08:34:19,User2,31,Engineer,Mildly familiar,Weekly
+2025-05-22 08:32:19,User3,45,Designer,Not familiar,Periodically
+2025-05-22 08:30:19,User4,28,Manager,Very familiar,Daily
+2025-05-22 08:28:19,User5,37,Teacher,Mildly familiar,Almost never
+2025-05-22 08:26:19,User6,29,Engineer,Very familiar,Daily
+2025-05-22 08:24:19,User7,22,Student,Mildly familiar,Periodically
+2025-05-22 08:22:19,User8,40,Designer,Not familiar,Weekly
+2025-05-22 08:20:19,User9,33,Manager,Very familiar,Daily
+2025-05-22 08:18:19,User10,26,Teacher,Mildly familiar,Almost never
+2025-05-22 08:16:19,User11,35,Engineer,Very familiar,Daily
+2025-05-22 08:14:19,User12,39,Designer,Not familiar,Weekly
+2025-05-22 08:12:19,User13,30,Manager,Mildly familiar,Periodically
+2025-05-22 08:10:19,User14,41,Student,Very familiar,Almost never
+2025-05-22 08:08:19,User15,23,Engineer,Very familiar,Daily
+2025-05-22 08:06:19,User16,48,Teacher,Not familiar,Weekly
+2025-05-22 08:04:19,User17,27,Designer,Mildly familiar,Periodically
+2025-05-22 08:02:19,User18,38,Manager,Very familiar,Daily
+2025-05-22 08:00:19,User19,32,Engineer,Not familiar,Almost never
+2025-05-22 07:58:19,User20,29,Student,Mildly familiar,Weekly
+2025-05-22 07:56:19,User21,42,Teacher,Very familiar,Periodically
+2025-05-22 07:54:19,User22,36,Engineer,Mildly familiar,Daily
+2025-05-22 07:52:19,User23,34,Manager,Very familiar,Weekly
+2025-05-22 07:50:19,User24,44,Designer,Not familiar,Periodically
+2025-05-22 07:48:19,User25,28,Student,Mildly familiar,Almost never
+2025-05-22 07:46:19,User26,26,Teacher,Very familiar,Daily
+2025-05-22 07:44:19,User27,30,Engineer,Mildly familiar,Weekly
+2025-05-22 07:42:19,User28,35,Designer,Not familiar,Periodically
+2025-05-22 07:40:19,User29,31,Manager,Very familiar,Daily
+2025-05-22 07:38:19,User30,33,Student,Mildly familiar,Weekly
