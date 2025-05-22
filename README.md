@@ -1,3 +1,11 @@
+## 📺 Video Demonstration
+
+Watch the full 3-minute demo video on YouTube here:  
+🎥 **[https://youtu.be/tZI-_8gQ0hA](https://youtu.be/tZI-_8gQ0hA)**
+
+[![Watch the demo video](https://img.youtube.com/vi/tZI-_8gQ0hA/0.jpg)](https://youtu.be/tZI-_8gQ0hA)
+
+
 # 🛠️ Setup Instructions – WeatherApp_Usability_Tool
 
 This guide will help you set up and run the **Streamlit-based usability testing tool** for evaluating a weather app interface.
