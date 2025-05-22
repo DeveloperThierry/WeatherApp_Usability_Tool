@@ -120,8 +120,7 @@ def main():
         if stop_button and "start_time" in st.session_state:
             duration = time.time() - st.session_state["start_time"]
             st.session_state["task_duration"] = duration
-        else:
-          st.warning("You must press start button before stop button.")
+        
 
         success = st.radio("Was the task completed successfully?", ["Yes", "No", "Partial"])
         notes = st.text_area("Observer Notes")
