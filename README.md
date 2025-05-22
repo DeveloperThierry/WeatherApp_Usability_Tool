@@ -1,54 +1,44 @@
-# 🌦️ Weather App Usability Testing Tool
+# 🛠️ Setup Instructions – WeatherApp_Usability_Tool
 
-My project is a **Streamlit-based usability testing tool** designed to receive user feedback and experience of my weather app interface. 
-
----
-
-## 📋 Features
-
-- Consent form to ethically record participant agreement  
-- Demographic questionnaire (age, occupation, etc.)  
-- Task simulation (timed, success tracking, notes)  
-- Exit questionnaire (Likert scales and open-ended feedback)  
-- Aggregated report view with interactive charts  
+This guide will help you set up and run the **Streamlit-based usability testing tool** for evaluating a weather app interface.
 
 ---
 
-## 🛠️ How It Works
+## 📦 Prerequisites
 
-The app consists of six tabs:
+Make sure you have the following installed on your system:
 
-1. **Home** – Introduction and overview  
-2. **Consent** – Record participant consent  
-3. **Demographics** – Collect user profile info  
-4. **Task** – Observe and time user performance on tasks  
-5. **Exit Questionnaire** – Capture satisfaction and feedback  
-6. **Report** – View summarized results with visualizations  
+- Python 3.7 or higher  
+- `pip` (Python package installer)  
 
 ---
 
-## 📂 Folder Structure
+## 🔧 Installation Steps
 
-```
-weather-usability-tool/
-├── data/
-│   ├── consent_data.csv
-│   ├── demographic_data.csv
-│   ├── task_data.csv
-│   └── exit_data.csv
-├── usability_tool.py
-└── README.md
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/developerthierry/WeatherApp_Usability_Tool.git
+cd WeatherApp_Usability_Tool
 ```
 
----
+2. **(Optional) Create a Virtual Environment**
 
-## 📦 Requirements
+```bash
+python -m venv venv
+# Windows:
+venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
+```
 
-- Python 3.7+  
-- Streamlit  
-- Pandas  
+3. **Install Required Packages**
 
-Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+> If you don't have a `requirements.txt`, install the packages manually:
 
 ```bash
 pip install streamlit pandas
@@ -56,48 +46,72 @@ pip install streamlit pandas
 
 ---
 
+## 📂 Project Structure
+
+```
+WeatherApp_Usability_Tool/
+├── data/                        # CSV data storage
+│   ├── consent_data.csv
+│   ├── demographic_data.csv
+│   ├── task_data.csv
+│   └── exit_data.csv
+├── usability_tool.py            # Main Streamlit app
+└── README.md                    # This file
+```
+
+> ℹ️ The `data/` folder is created automatically when the app runs.
+
+---
+
 ## 🚀 Running the App
 
-In the terminal, run:
+Launch the app from the terminal:
 
 ```bash
 streamlit run usability_tool.py
 ```
 
----
-
-## 🧪 Sample Tasks Included
-
-- Task 1: Find weather in your city  
-- Task 2: View the neighboring city weather forecast  
-- Task 3: Convert temperature between Fahrenheit and Celsius  
+This opens a browser tab running the usability testing interface.
 
 ---
 
-## 📈 Report Outputs
+## 🧪 Using the App
 
-- Consent participation count  
-- Average age of users  
-- Familiarity distribution (bar chart)  
-- Average task duration  
-- Satisfaction & difficulty ratings (average + full table)  
-
----
-
-## ✅ Data Privacy
-
-- All data is stored anonymously in `.csv` files  
-- Participants must give explicit consent before continuing  
-- No sensitive or identifying information is required  
+1. Start on the **Home** tab.
+2. Navigate through:
+   - **Consent**
+   - **Demographics**
+   - **Task**
+   - **Exit Questionnaire**
+   - **Report**
+3. Each submission is saved into the corresponding CSV in the `data/` directory.
 
 ---
 
-## ✍️ Author
+## ✅ Notes
 
-**Thierry Laguerre**  
+- Mock/test data can be pre-filled into the CSV files for demo purposes.
+- Reports include:
+  - Consent count
+  - Average age
+  - Task success and time
+  - Satisfaction and difficulty ratings
+
+---
+
+## 🔗 Repository
+
+[GitHub Repo: developerthierry/WeatherApp_Usability_Tool](https://github.com/developerthierry/WeatherApp_Usability_Tool)
 
 ---
 
 ## 📄 License
 
-This project is for **educational purposes** and is open for adaptation under the MIT License.
+This project is provided for educational use under the MIT License.
+
+---
+
+## 🙋 Author
+
+**Thierry**  
+GitHub: [@developerthierry](https://github.com/developerthierry)
