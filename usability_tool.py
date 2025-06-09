@@ -78,6 +78,7 @@ def main():
         with st.form("demographic_form"):
             #TODO: Create the demographic form
             name = st.text_input("Your Name (Optional)")
+            name = "Anonymous"
             age = st.number_input("Age", min_value=10, max_value=100, step=1)
             occupation = st.text_input("Occupation")
             familiarity = st.radio("How familiar are you with weather apps?", ["Very familiar", "Mildly familiar", "Not familiar"])
@@ -107,7 +108,7 @@ def main():
         """)
 
         # For this template, we assume there's only one task, in project 3, we will have to include the actual tasks
-        task_list =  ["Task 1: Find weather in your city", "Task 2: View the neighboring city weather forecast", "Task 3: Convert unit temperature between Farenheit and Celsius"]
+        task_list =  ["Task 1: Find current weather conditions in your city (ex. partly cloudy)", "Task 2: View the metrics for weather humidity, pressure, and wind for any city", "Task 3: Record weather temperature for any city switching between Farenheit and Celsius units"]
         selected_task = st.selectbox("Select Task",task_list)
         st.write(f"**Task Description**:  You have selected {selected_task}")
 
