@@ -1,31 +1,31 @@
 timestamp,name,age,occupation,familiarity,frequency
-2025-05-22 09:49:15,John,10,Doctor,Mildly familiar,Periodically
-2025-05-22 09:50:21,Daryl,55,Salesman,Very familiar,Daily
-2025-05-22 09:51:29,Gary,33,Uber Driver,Mildly familiar,Weekly
-2025-05-22 09:54:31,Henry,45,Scientist,Mildly familiar,Periodically
-2025-05-22 10:00:20,Emily,28,Designer,Very familiar,Daily
-2025-05-22 10:01:12,Sarah,22,Student,Not familiar,Almost never
-2025-05-22 10:02:25,James,40,Engineer,Very familiar,Weekly
-2025-05-22 10:03:30,Tina,35,Nurse,Mildly familiar,Periodically
-2025-05-22 10:04:41,Oscar,60,Retired,Mildly familiar,Daily
-2025-05-22 10:05:52,Paul,27,Developer,Very familiar,Daily
-2025-05-22 10:06:36,Lisa,32,Marketer,Mildly familiar,Weekly
-2025-05-22 10:07:48,Amy,24,Intern,Not familiar,Periodically
-2025-05-22 10:08:55,Nick,30,Manager,Mildly familiar,Weekly
-2025-05-22 10:09:47,Max,38,Artist,Not familiar,Almost never
-2025-05-22 10:10:59,Sophie,29,Writer,Very familiar,Daily
-2025-05-22 10:12:14,Luke,44,Teacher,Mildly familiar,Weekly
-2025-05-22 10:13:25,Nina,21,Student,Not familiar,Almost never
-2025-05-22 10:14:36,Frank,53,Mechanic,Mildly familiar,Periodically
-2025-05-22 10:15:47,Chloe,26,HR,Very familiar,Daily
-2025-05-22 10:16:58,Leo,37,Chef,Mildly familiar,Weekly
-2025-05-22 10:17:29,Maya,31,Engineer,Very familiar,Daily
-2025-05-22 10:18:44,Kate,34,Lawyer,Not familiar,Periodically
-2025-05-22 10:19:55,Aaron,39,Plumber,Mildly familiar,Weekly
-2025-05-22 10:20:12,Nadia,43,Scientist,Very familiar,Daily
-2025-05-22 10:21:28,Ray,36,Teacher,Mildly familiar,Periodically
-2025-05-22 10:22:39,Vanessa,41,Consultant,Very familiar,Daily
-2025-05-22 10:23:50,Dean,23,Student,Not familiar,Almost never
-2025-05-22 10:25:01,Emma,27,Photographer,Mildly familiar,Weekly
-2025-05-22 10:26:13,Bob,50,Driver,Very familiar,Daily
-2025-05-22 10:27:24,Alice,29,Receptionist,Mildly familiar,Weekly
+2025-05-22 09:49:15,Anonymous,10,Doctor,Mildly familiar,Periodically
+2025-05-22 09:50:21,Anonymous,55,Salesman,Very familiar,Daily
+2025-05-22 09:51:29,Anonymous,33,Uber Driver,Mildly familiar,Weekly
+2025-05-22 09:54:31,Anonymous,45,Scientist,Mildly familiar,Periodically
+2025-05-22 10:00:20,Anonymous,28,Designer,Very familiar,Daily
+2025-05-22 10:01:12,Anonymous,22,Student,Not familiar,Almost never
+2025-05-22 10:02:25,Anonymous,40,Engineer,Very familiar,Weekly
+2025-05-22 10:03:30,Anonymous,35,Nurse,Mildly familiar,Periodically
+2025-05-22 10:04:41,Anonymous,60,Retired,Mildly familiar,Daily
+2025-05-22 10:05:52,Anonymous,27,Developer,Very familiar,Daily
+2025-05-22 10:06:36,Anonymous,32,Marketer,Mildly familiar,Weekly
+2025-05-22 10:07:48,Anonymous,24,Intern,Not familiar,Periodically
+2025-05-22 10:08:55,Anonymous,30,Manager,Mildly familiar,Weekly
+2025-05-22 10:09:47,Anonymous,38,Artist,Not familiar,Almost never
+2025-05-22 10:10:59,Anonymous,29,Writer,Very familiar,Daily
+2025-05-22 10:12:14,Anonymous,44,Teacher,Mildly familiar,Weekly
+2025-05-22 10:13:25,Anonymous,21,Student,Not familiar,Almost never
+2025-05-22 10:14:36,Anonymous,53,Mechanic,Mildly familiar,Periodically
+2025-05-22 10:15:47,Anonymous,26,HR,Very familiar,Daily
+2025-05-22 10:16:58,Anonymous,37,Chef,Mildly familiar,Weekly
+2025-05-22 10:17:29,Anonymous,31,Engineer,Very familiar,Daily
+2025-05-22 10:18:44,Anonymous,34,Lawyer,Not familiar,Periodically
+2025-05-22 10:19:55,Anonymous,39,Plumber,Mildly familiar,Weekly
+2025-05-22 10:20:12,Anonymous,43,Scientist,Very familiar,Daily
+2025-05-22 10:21:28,Anonymous,36,Teacher,Mildly familiar,Periodically
+2025-05-22 10:22:39,Anonymous,41,Consultant,Very familiar,Daily
+2025-05-22 10:23:50,Anonymous,23,Student,Not familiar,Almost never
+2025-05-22 10:25:01,Anonymous,27,Photographer,Mildly familiar,Weekly
+2025-05-22 10:26:13,Anonymous,50,Driver,Very familiar,Daily
+2025-05-22 10:27:24,Anonymous,29,Receptionist,Mildly familiar,Weekly
